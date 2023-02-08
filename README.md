@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="width:100;%">
  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" />
 </h1>
 <h1 align="center">Hi 👋, I'm Sky</h1>
