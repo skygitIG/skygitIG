@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Angular<br>👯 I’m looking to collaborate on Instagram<br>🌱 I’m currently learning Angular
+🔭 I’m currently working on Angular<br>👯 I’m looking to collaborate on JavaScript<br>🌱 I’m currently learning Angular
 
 
 ## 🌐 Socials:
