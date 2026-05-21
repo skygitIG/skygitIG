@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [skygit.netlify.app](skygit.netlify.app)
+- 👨‍💻 All of my projects are available at [codewithsky.com](codewithsky.com)
 
 - 📫 How to reach me **kr6.akash@gmail.com**
 
